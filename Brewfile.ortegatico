@@ -2,7 +2,9 @@ tap "homebrew/bundle"
 tap "homebrew/core"
 brew "coreutils"
 brew "mas"
+brew "mkcert"
 brew "mysql-client"
+brew "nss"
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
 mas "LastPass", id: 926036361
