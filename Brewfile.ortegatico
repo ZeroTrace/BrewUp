@@ -10,7 +10,7 @@ brew "mysql-client"
 brew "nmap"
 brew "nss"
 brew "openssl@3"
-brew "php", restart_service: true
+brew "php"
 brew "shivammathur/php/php@7.2"
 brew "shivammathur/php/php@7.4"
 mas "Jira", id: 1475897096
