@@ -14,7 +14,6 @@ brew "php"
 brew "shivammathur/php/php@7.2"
 brew "shivammathur/php/php@7.4"
 cask "dbeaver-community"
-mas "Jira", id: 1475897096
 mas "LastPass", id: 926036361
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Numbers", id: 409203825
