@@ -8,7 +8,7 @@ brew "composer"
 brew "coreutils"
 brew "mas"
 brew "mkcert"
-brew "mysql"
+brew "mysql", restart_service: true
 brew "mysql-client"
 brew "nmap"
 brew "nss"
