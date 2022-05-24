@@ -12,6 +12,7 @@ brew "mysql", restart_service: true
 brew "mysql-client"
 brew "nmap"
 brew "nss"
+brew "openjdk"
 brew "openssl@3"
 brew "python@3.9", link: false
 brew "wget"
