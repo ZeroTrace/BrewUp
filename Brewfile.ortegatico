@@ -14,7 +14,7 @@ brew "nmap"
 brew "nss"
 brew "openjdk"
 brew "openssl@3"
-brew "python@3.9", link: false
+brew "python@3.9"
 brew "wget"
 brew "shivammathur/php/php@7.2"
 brew "shivammathur/php/php@7.4"
