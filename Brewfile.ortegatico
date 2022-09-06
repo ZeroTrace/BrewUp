@@ -19,12 +19,3 @@ brew "wget"
 brew "shivammathur/php/php@7.2"
 brew "shivammathur/php/php@7.4"
 cask "dbeaver-community"
-mas "Crypto Pro", id: 980888073
-mas "iMovie", id: 408981434
-mas "LastPass", id: 926036361
-mas "Microsoft Remote Desktop", id: 1295203466
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
-mas "Speedtest", id: 1153157709
-mas "Telegram", id: 747648890
-mas "The Unarchiver", id: 425424353
