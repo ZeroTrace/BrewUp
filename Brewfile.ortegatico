@@ -6,6 +6,7 @@ tap "shivammathur/php"
 brew "php"
 brew "composer"
 brew "coreutils"
+brew "jq"
 brew "mas"
 brew "mkcert"
 brew "mysql", restart_service: true
