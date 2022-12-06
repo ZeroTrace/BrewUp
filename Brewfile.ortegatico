@@ -21,7 +21,6 @@ brew "wget"
 brew "shivammathur/php/php@7.2"
 brew "shivammathur/php/php@7.4"
 cask "dbeaver-community"
-mas "Crypto Pro", id: 980888073
 mas "HP Smart", id: 1474276998
 mas "iMovie", id: 408981434
 mas "LastPass", id: 926036361
