@@ -22,7 +22,6 @@ brew "shivammathur/php/php@7.2"
 brew "shivammathur/php/php@7.4"
 cask "dbeaver-community"
 mas "HP Smart", id: 1474276998
-mas "iMovie", id: 408981434
 mas "LastPass", id: 926036361
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
