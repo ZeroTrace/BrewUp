@@ -11,7 +11,6 @@ brew "jq"
 brew "libyaml"
 brew "mas"
 brew "mkcert"
-brew "mysql", restart_service: true
 brew "mysql-client"
 brew "nmap"
 brew "nss"
@@ -19,13 +18,9 @@ brew "openjdk"
 brew "openssl@3"
 brew "python@3.9"
 brew "wget"
-brew "shivammathur/php/php@7.2"
-brew "shivammathur/php/php@7.4"
 cask "dbeaver-community"
 mas "HP Smart", id: 1474276998
 mas "LastPass", id: 926036361
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
 mas "Speedtest", id: 1153157709
 mas "Telegram", id: 747648890
 mas "The Unarchiver", id: 425424353
